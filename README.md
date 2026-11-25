@@ -1,6 +1,6 @@
 # Text Guardrail System
 
-A multi-stage pipeline that evaluates user input for harmful, unsafe, or malicious content before it reaches an AI model. Built without LLMs — pure programmatic logic, pattern matching, and traditional ML.
+A multi-stage pipeline that evaluates user input for harmful, unsafe, or malicious content before it reaches an AI model.Pure programmatic logic, pattern matching, and traditional ML.
 
 ---
 
